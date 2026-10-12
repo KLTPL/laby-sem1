@@ -1,0 +1,59 @@
+# Ada / GNAT
+*.o
+*.ali
+*.bexch
+obj/
+b~*
+
+# Python
+__pycache__/
+*.pyc
+
+# CMake / Ninja
+build/
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+build.ninja
+.ninja_*
+*.cmake
+
+# Misc build/run output
+*.out
+*.bin
+*.stdout
+*.stderr
+
+# Compiled executables (extensionless ELF binaries)
+/Wstęp do Informatyki i Programowania/Labolatoria/Lista 1/zad_1/zad_1A
+/Wstęp do Informatyki i Programowania/Labolatoria/Lista 1/zad_1/zad_1C
+/Wstęp do Informatyki i Programowania/Labolatoria/Lista 1/zad_2/zad_2A
+/Wstęp do Informatyki i Programowania/Labolatoria/Lista 1/zad_2/zad_2C
+/Wstęp do Informatyki i Programowania/Labolatoria/Lista 1/zad_3/zad_3A(1)
+/Wstęp do Informatyki i Programowania/Labolatoria/Lista 1/zad_3/zad_3C
+/Wstęp do Informatyki i Programowania/Labolatoria/Lista 1/zad_3/zad_3a
+/Wstęp do Informatyki i Programowania/Labolatoria/Lista 2/zad_1/zad_1A(1)
+/Wstęp do Informatyki i Programowania/Labolatoria/Lista 2/zad_1/zad_1C(1)
+/Wstęp do Informatyki i Programowania/Labolatoria/Lista 2/zad_1/zad_1a
+/Wstęp do Informatyki i Programowania/Labolatoria/Lista 2/zad_1/zad_1c
+/Wstęp do Informatyki i Programowania/Labolatoria/Lista 2/zad_2/zad_2a
+/Wstęp do Informatyki i Programowania/Labolatoria/Lista 2/zad_2/zad_2c
+/Wstęp do Informatyki i Programowania/Labolatoria/Lista 2/zad_3/zad_3a
+/Wstęp do Informatyki i Programowania/Labolatoria/Lista 2/zad_3/zad_3c
+/Wstęp do Informatyki i Programowania/Labolatoria/Lista 3/zad_1/zad_1a
+/Wstęp do Informatyki i Programowania/Labolatoria/Lista 3/zad_1/zad_1c
+/Wstęp do Informatyki i Programowania/Labolatoria/Lista 3/zad_2/zad_2a
+/Wstęp do Informatyki i Programowania/Labolatoria/Lista 3/zad_2/zad_2c
+/Wstęp do Informatyki i Programowania/Labolatoria/Lista 3/zad_3/zad_3a
+/Wstęp do Informatyki i Programowania/Labolatoria/Lista 3/zad_3/zad_3c
+/Wstęp do Informatyki i Programowania/Labolatoria/Lista 4/zad_1a/main
+/Wstęp do Informatyki i Programowania/Labolatoria/Lista 4/zad_1c/zad_1c
+/Wstęp do Informatyki i Programowania/Labolatoria/Lista 4/zad_2a/main
+/Wstęp do Informatyki i Programowania/Labolatoria/Lista 4/zad_2c/main
+/Wstęp do Informatyki i Programowania/Labolatoria/Lista 5/zad_1a/listtest
+/Wstęp do Informatyki i Programowania/Labolatoria/Lista 5/zad_1c/listtest
+/Wstęp do Informatyki i Programowania/Labolatoria/Lista 5/zad_2a/calcbisection
+/Wstęp do Informatyki i Programowania/Labolatoria/Lista 5/zad_2c/calc_bisection
+/Wstęp do Informatyki i Programowania/Labolatoria/Lista 6/zad_1a/main
+/Wstęp do Informatyki i Programowania/Labolatoria/Lista 6/zad_2a/hetmani
+/Wstęp do Informatyki i Programowania/Labolatoria/Lista 6/zad_3a/mastermind
